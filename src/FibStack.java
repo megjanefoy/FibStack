@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Stack;
 /**************************************************************
- Author's Panther ID: 3276301
+ Author: Megan Jane Thompson
  Purpose: This program takes in a user number 1 to 90, inclusive
 	      and creates a Stack list of the Fibonacci sequence. It 
 	   	  then returns the correlating Fibonacci number.
